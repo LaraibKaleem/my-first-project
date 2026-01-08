@@ -1,7 +1,7 @@
 # My First GitHub Project
 
 ## 📋 About
-This is my practice repository to learn GitHub workflow and version control.
+This is my practice repository to learn GitHub workflow and version control. 
 
 ## 🎯 Purpose
 Learning how to:
