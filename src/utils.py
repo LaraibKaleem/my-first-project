@@ -1,9 +1,9 @@
 # Utility Functions
 # Author: Laraib Kaleem
 
-*Why:* Keep your actual code files organized
-*What goes here:* Python scripts, modules, classes
-*Example:* model.py, utils.py, data_processing.py
+# *Why:* Keep your actual code files organized
+# *What goes here:* Python scripts, modules, classes
+# *Example:* model.py, utils.py, data_processing.py
 
 def print_separator(char="-", length=50):
     """Print a separator line"""
