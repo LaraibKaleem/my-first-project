@@ -2,10 +2,10 @@
 
 This folder contains datasets used in the project.
 
-# Datasets
-# Why: Separate data from code
-# What goes here: CSV files, JSON, small datasets
-# Example: train.csv, test.csv, sample_data.json
+## Datasets
+## Why: Separate data from code
+## What goes here: CSV files, JSON, small datasets
+## Example: train.csv, test.csv, sample_data.json
 
 ## Files
 - Sample datasets (small files only)
