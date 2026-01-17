@@ -1,1 +1,5 @@
+@@ Jupyter Notebooks @@
+# Why: Separate analysis notebooks from code scripts
+# What goes here: .ipynb files for exploration and analysis
+# Example: data_exploration.ipynb, model_training.ipynb
 
