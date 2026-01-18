@@ -1,3 +1,36 @@
+# ====================
+# PROJECT SPECIFIC
+# ====================
+
+# Large data files (don't upload to GitHub)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+data/raw/*
+data/processed/*
+
+# Keep folder structure but ignore contents
+!data/README.md
+!results/README.md
+
+# Machine Learning Models (often too large)
+*.h5
+*.pkl
+*.joblib
+*.model
+models/*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ====================
+# PYTHON DEFAULTS (keep existing content below)
+# ====================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
