@@ -1,3 +1,10 @@
+
+# .gitignore prevents uploading:
+# - Large files (data, models) that GitHub can't handle
+# - Sensitive info (passwords, API keys) that must stay private
+# - Temporary junk files Python creates automatically
+# Only upload: code, docs, small configs
+
 # ====================
 # PROJECT SPECIFIC
 # ====================
