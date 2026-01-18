@@ -90,7 +90,7 @@ This repository is part of my 24-month roadmap.
 
 ## 🔗 Connect With Me
 - **GitHub:** [LaraibKaleem](https://github.com/LaraibKaleem)
-- **LinkedIn:** [Laraib Kaleem](https://www.linkedin.com/in/laraib-kaleem)
+- **LinkedIn:** [Laraib Kaleem](https://www.linkedin.com/in/laraibkaleem/)
 - **Email:** laraibkaleem15@gmail.com
 
 ## 📊 Repository Stats
