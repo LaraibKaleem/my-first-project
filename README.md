@@ -98,6 +98,7 @@ This repository is part of my 24-month roadmap.
 - **Purpose:** Learning & Practice
 - **Status:** Active Development
 
+Git & GitHub Crash Course for Beginners [2026] by freeCodeCamp.org "https://www.youtube.com/watch?v=mAFoROnOfHs"
 ---
 
 **Author:** Laraib Kaleem  
