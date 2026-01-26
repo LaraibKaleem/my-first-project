@@ -12,6 +12,22 @@
 - Understood .gitignore importance
 - Wrote comprehensive README documentation
 
+## Day 4-5: LinkedIn & Networking
+- Optimized LinkedIn profile for international opportunities
+- Added published research and comprehensive About section
+- Connected GitHub to LinkedIn
+- Enabled "Open to Work" for 9+ countries
+- Published professional post announcing journey
+- Sent 10+ connection requests to data professionals
+- Joined 5+ LinkedIn groups
+- Engaged with industry content
+
+## Day 6: Practice & Review
+- Created comprehensive Week 1 reflection document
+- Reviewed Git fundamentals
+- Practiced Git workflow with real files
+- Consolidated learning from entire week
+
 ## Key Commands
 ```bash
 git status          # Check what changed
